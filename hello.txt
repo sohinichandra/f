@@ -1,0 +1,3 @@
+hello "sohini".
+what are you doing?
+/bin/bash: q: command not found
